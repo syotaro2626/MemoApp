@@ -13,7 +13,7 @@ export default function MemoCreateScreen() {
       <View style={styles.inputContainer}>
         <TextInput value="" multiline style={styles.input} />
       </View>
-      <CircleButton name="check" />
+      <CircleButton name="edit-2" />
     </KeyboardAvoidingView>
   );
 }
